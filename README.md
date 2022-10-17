@@ -1,4 +1,5 @@
 # CMPM121Project1
+# Video showcase at the bottom
 
 slice of life house
 
@@ -26,3 +27,5 @@ bookshelf - Unity Asset Store
 green/blue/yellow books - Unity Asset Store
 starry night painting - Unity Asset Store
 Skybox - Unity Asset Store
+
+Link to video: https://drive.google.com/file/d/15B943Q7fthNCWeWWuJTwriGiE06sQ6_Q/view?usp=sharing
